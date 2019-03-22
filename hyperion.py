@@ -1645,7 +1645,7 @@ class AsyncHyperion(object):
         :type: HACQSpectrumData
         """
 
-        return HACQSpectrumData((await self._execute_command('#GetSpectrum')).content, self.power_cal)
+        return HACQSpectrumData((await self._execute_command('#GetSpectrum')).content, self._power_cal)
 
     async def reboot(self):
         """
