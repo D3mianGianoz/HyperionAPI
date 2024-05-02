@@ -1,10 +1,10 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.1
 Name: HyperionAPI
-Version: 2.0.0.0
+Version: 2.1.0.0
 Summary: Public API for Hyperion Instruments from Micron Optics, Inc.
-Home-page: UNKNOWN
-Author: Dustin W. Carr
+Home-page: https://lunainc.com
+Author: Dustin W. Carr, Damiano Gianotti
 Author-email: dcarr@micronoptics.com
-License: UNKNOWN
+License: MIT
 Description: UNKNOWN
 Platform: UNKNOWN
