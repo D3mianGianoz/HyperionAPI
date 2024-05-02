@@ -2,7 +2,7 @@ import asyncio
 import logging
 from logging.config import dictConfig
 
-import SimpleExamples.hyperion as hyperion
+import hyperion as hyperion
 
 logger_config_debug = {"handlers": ["h"], "level": logging.DEBUG}
 

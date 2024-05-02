@@ -1,6 +1,6 @@
 import asyncio
 
-import SimpleExamples.hyperion as hyperion
+import hyperion as hyperion
 
 instrument_ip = "10.0.10.46"
 

@@ -2,7 +2,7 @@
 
 from setuptools import find_packages, setup
 
-from SimpleExamples.hyperion import _LIBRARY_VERSION
+from hyperion import _LIBRARY_VERSION
 
 setup(
     name="HyperionAPI",

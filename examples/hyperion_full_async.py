@@ -1,7 +1,7 @@
 import asyncio
 from collections import namedtuple
 
-from SimpleExamples.hyperion import (
+from hyperion import (
     COMMAND_PORT,
     HCommTCPClient,
     Hyperion,

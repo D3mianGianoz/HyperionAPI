@@ -9,7 +9,7 @@ import asyncio
 
 import numpy as np
 
-import SimpleExamples.hyperion as hyperion
+import hyperion
 
 instrument_ip = "10.0.10.71"
 
